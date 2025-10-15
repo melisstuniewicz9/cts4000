@@ -1,9 +1,10 @@
 ![Paws and Hearts Banner](pahbannerfinal.png)
 
-**Title:** Paws and Hearts: A Static Website Showcasing the Heartfelt Benefits of Pet Ownership  
+**Title:** Paws and Hearts: A Static Website Showcasing the Mental Health and Wellness Benefits of Pet Ownership  
 **Author:** Melissa Tuniewicz  
 **Issue #:** 3  
-**Date:** October 10th, 2025  
+**Date:** July 30th, 2025  
+**Created for:** CTS3030 - Summer Research Project
 **Tags:** Pets, Wellness, Digital Art, Web Design  
 
 ---
