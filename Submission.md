@@ -1,3 +1,5 @@
+![Paws and Hearts Banner](images/pahbannerfinal.png)
+
 ---
 Title: "Paws and Hearts: The Heartfelt Benefits of Pet Ownership"
 Author: "Melissa Tuniewicz"
