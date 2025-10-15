@@ -1,6 +1,6 @@
 ![Paws and Hearts Banner](pahbannerfinal.png)
 
-**Title:** Paws and Hearts: The Heartfelt Benefits of Pet Ownership  
+**Title:** Paws and Hearts: A Static Website Showcasing the Heartfelt Benefits of Pet Ownership  
 **Author:** Melissa Tuniewicz  
 **Issue #:** 3  
 **Date:** October 10th, 2025  
