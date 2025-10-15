@@ -1,4 +1,4 @@
-![Paws and Hearts Banner](images/pahbannerfinal.png)
+![Paws and Hearts Banner](pahbannerfinal.png)
 
 ---
 Title: "Paws and Hearts: The Heartfelt Benefits of Pet Ownership"
