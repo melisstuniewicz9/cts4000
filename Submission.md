@@ -11,9 +11,11 @@
 
 ### Abstract
 Paws and Hearts is a community-driven minimal computing project that presents a collection of stories and photographs highlighting the mental health and wellness benefits of pet ownership. With stories sent in by real individuals, each contribution is raw and authentic, helping to create a wholesome online space where vulnerability is encouraged. Enhanced by original illustrations and guided by web design and user experience principles, it stands as an online space that seamlessly blends scholarly research and creativity, presenting a potentially sensitive subject matter into a visually immersive digital format.
- 
 
----
+### Why it Works with the Theme:
+
+**Scholarly research can take many forms beyond traditional academic papers. This digital project blends visual arts and academia, showing that tangible evidence of learning does not have to be monotonous or devoid of personality and fun. Using digital tools, including a static website built with Jekyll that I took great part in programming, this work repurposes a qualitative dataset into something expressive and emotionally engaging. It provides a more immersive and creative way of experiencing knowledge.
+**---
 
 **Link:** [Paws and Hearts Website](https://paws-and-hearts.neocities.org/_site/)  
 **Blog Post:** [Paws and Hearts: From Theory to Practice](https://melissatuniewicz2.wixsite.com/melissa-tuniewicz1/post/paws-and-hearts-from-theory-to-practice)
