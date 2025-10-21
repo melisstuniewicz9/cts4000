@@ -15,7 +15,7 @@ Paws and Hearts is a community-driven minimal computing project that presents a 
 ---
 ### Why it Works with the Theme:
 
-Scholarly research can take many forms beyond traditional academic papers. This digital project blends visual arts and academia, showing that tangible evidence of learning does not have to be monotonous or devoid of personality and fun. Using digital tools, including a static website built with Jekyll that I took great part in programming, this work repurposes a qualitative dataset into something expressive and emotionally engaging. It provides a more immersive and creative way of experiencing knowledge.
+Scholarly research can take many forms beyond traditional academic papers. This digital project blends visual arts and academia, showing that tangible evidence of learning does not have to be monotonous or devoid of personality and fun. Using digital tools, including a static website built with Jekyll that I took great part in programming, this work repurposes a qualitative dataset into something expressive and emotionally engaging. It provides a more immersive and creative way of experiencing knowledge, which I feel really emboides digital humanities scholarship.
 
 ---
 
