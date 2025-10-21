@@ -221,6 +221,10 @@ The process journal was extremely comprehensive! Each methodological step taken 
 
 ---
 
+### Melissa's Review
+
+---
+
 ### Relevance to Special Issue Theme (5/5)
 
 It’s unfortunate that you made the decision not to submit your piece to the journal, as I feel that it works perfectly with our special issue theme for this year! Your storybook falls right into the category of automated artwork and how AI infiltrates creative spaces in ways that can potentially devalue human labour. 
