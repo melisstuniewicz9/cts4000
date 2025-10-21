@@ -214,14 +214,16 @@ Image four
 > *Buddy*: "Remember, Ava, never share you personal information like your name, address, or school online."
 >
 > *Ava*: "Got it, Buddy! What else should I know?"
-> 
+>
+> ---
+### Melissa's Review
+
+---
+
 ### Communication, Style, and Polish (4.5/5)
 
 The process journal was extremely comprehensive! Each methodological step taken to curate the final children’s story was explained in great detail, and I felt as if I could replicate the process myself by following these steps. Your writing style is clear and easy to follow, with only a small number of spelling mistakes. These are low-stakes errors and didn’t make much of an impact on the overall effectiveness of the piece. A quick proofread would have elevated the professionalism of your otherwise excellent work!
 
----
-
-### Melissa's Review
 
 ---
 
