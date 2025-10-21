@@ -215,3 +215,38 @@ Image four
 >
 > *Ava*: "Got it, Buddy! What else should I know?"
 > 
+### Communication, Style, and Polish (4.5/5)
+
+The process journal was extremely comprehensive! Each methodological step taken to curate the final children’s story was explained in great detail, and I felt as if I could replicate the process myself by following these steps. Your writing style is clear and easy to follow, with only a small number of spelling mistakes. These are low-stakes errors and didn’t make much of an impact on the overall effectiveness of the piece. A quick proofread would have elevated the professionalism of your otherwise excellent work!
+
+---
+
+### Relevance to Special Issue Theme (5/5)
+
+It’s unfortunate that you made the decision not to submit your piece to the journal, as I feel that it works perfectly with our special issue theme for this year! Your storybook falls right into the category of automated artwork and how AI infiltrates creative spaces in ways that can potentially devalue human labour. 
+
+I think that future journal visitors could learn a lot from reading about your collaborative AI experience. As a creative myself who often worries about artistic labour being outsourced to LLMs and potentially leaving me devoid of employment opportunities, your project helped me realize that there is still much work to be done before AI can catch up to human-level ideas. 
+
+Co-Pilot clearly experienced difficulty following simple instructions, especially when you were attempting to generate cover and panel illustrations for your story. As you mentioned, Ava’s appearance did not stay consistent across prompts, and Buddy’s interface changed from a virtual assistant to a physical robot, despite your clear instructions to keep these ideas homogeneous. Co-Pilot is clearly not equipped to take on a large-scale artistic work of any kind!
+
+---
+
+### Original Creativity and Strength of Ideas (5/5)
+
+I highly enjoyed navigating your process of creating this project and am extremely impressed with the level of detail in your ideas. Creating a children’s story about how to safely and productively integrate AI into their lives was thoughtful and effectively embodies why ethical considerations are so important in the development of AI. 
+
+It’s clear that you put a lot of consideration into your Co-Pilot prompts to account for potential errors and ensure it could capture the full vision of Ava and Buddy as characters, making the story super engaging and relatable for today’s youth. The ethical considerations section effectively highlighted the distinction between tasks best suited for AI and those that benefit from human expertise. Overall, this was a great idea, and you brought it to life effectively.
+
+---
+
+### Accuracy and Completion of Markdown Code (4.5/5)
+
+You truly went above and beyond in your completion of this Markdown page! All relevant metadata is included and formatted in a clean, organized way. All the links work properly, and the images are sized accessibly. I was especially impressed by your use and correct execution of image captions (I’ll definitely be taking inspiration from this and including it in my own Markdown file).
+
+The only reason for the half-mark deduction here was the absence of a works cited list. As per the assignment requirements, it would have been helpful to cite all sources used, including the tools and resources involved in the creation of this project (I believe Co-Pilot would need its own footnote citation). I assume you didn’t require external literature since all the work consisted of Co-Pilot interactions, so just citing the AI itself is the only fix that needs to be made.
+
+---
+
+### **Total Score: 19/20**
+
+**Excellent work!**
