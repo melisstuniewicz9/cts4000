@@ -76,7 +76,7 @@ When creating Paws and Hearts this summer in CTS3030, I wanted to ensure that al
 
 I feel as if the relevance to issue theme is somewhat subjective. While Gabby did not feel as if my project was a good fit for the journal, I received positive feedback from the editorial teamm. Despite my submission being accepted, these contrasting perspectives have left me somewhat unsure about how to edit this submission and draw readers attention to more profound connections to our theme. After reviewing the CFP once more, I think Paws and Hearts works well in the area of mixed media work (see below) so I feel comfortable in my decision to submit to the journal.
 
-[CFP2025](SubmissionReviewSS.png)
+![CFP2025](SubmissionReviewSS.png)
 
 Of course, I am always receptive to constructive feedback, so If I am ever in a postion to submit academic work for a different journal during my undergraduate journey, I will make sure to submit something that aligns more closely with the themes vision!
 
