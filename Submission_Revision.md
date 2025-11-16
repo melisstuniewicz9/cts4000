@@ -1,7 +1,6 @@
 Gabby's Review: 
 
 ---
-![Paws and Hearts Banner](pahbannerfinal.png)
 
 - *Because it's not in my repository i can't open the link or view the banner*
 - <img width="981" height="366" alt="image" src="https://github.com/user-attachments/assets/96dafe74-124c-49de-9c2e-889811be84af" />
