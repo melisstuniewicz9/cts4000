@@ -80,5 +80,7 @@ I feel as if the relevance to issue theme is somewhat subjective. While Gabby di
 
 Of course, I am always receptive to constructive feedback, so If I am ever in a postion to submit academic work for a different journal during my undergraduate journey, I will make sure to submit something that aligns more closely with the themes vision!
 
+My lowest score lies in the "accuracy and completion of markdown code section." The main piece of feedback here was in regards to my project not being properly encoded in markdown. Unfortunately, you cannot use embeds in GitHub markdown, so providing the Neocities link where my project is hosted was the only realistic way my project could be viewed. That being said, I most definitely could have encoded my reflection blog post in markdown. I had thought about doing so initially, 
 
+![Length of reflection blog post](SS2.png)
 
