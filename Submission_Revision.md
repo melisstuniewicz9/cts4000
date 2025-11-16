@@ -2,10 +2,6 @@ Gabby's Review:
 
 ---
 
-- *Because it's not in my repository i can't open the link or view the banner*
-- <img width="981" height="366" alt="image" src="https://github.com/user-attachments/assets/96dafe74-124c-49de-9c2e-889811be84af" />
-
-
 **Title:** Paws and Hearts: A Static Website Showcasing the Mental Health and Wellness Benefits of Pet Ownership  
 **Author:** Melissa Tuniewicz  
 **Issue #:** 3  
