@@ -138,6 +138,7 @@ Scholarly research can take many forms beyond traditional academic papers. This 
 
 Melissa is a third-year Culture and Technology Studies student who is passionate about digital creativity and using non-traditional mediums to experience and communicate learning.
 
+---
 ### **Works Cited**
 
 Clement, Tanya E. “Where Is Methodology in Digital Humanities?” In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. Minneapolis: University of Minnesota Press, 2016. [https://doi.org/10.5749/9781452963761](https://doi.org/10.5749/9781452963761).
