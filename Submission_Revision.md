@@ -88,7 +88,7 @@ Of course, I am always receptive to constructive feedback, so If I am ever in a 
 
 I received mostly positive feedback here. Gabby enjoyed navigating my website and appreciated the original artwork, but she mentioned that she has come across research projects with a similar concept (the impacts of pet ownership on mental health). I think this is why a point was deducted from the score. This is a fair judgment because I am definitely not the only one who has created a gallery of pet photos and testimonials. However, the project was never meant to be a completely original concept. It was meant to be a passion project that showcased my artwork and shared uplifting stories about pets and their owners. In fact, part of the research process involved finding similar projects and using them as inspiration for our own work, so I do not want it to appear as though I set out to create something revolutionary.
 
-Here's an example of a cool digital project that I took great inspiration from!
+Here's an example of a cool digital project that I took great inspiration from! (See the gallery section.) 
 
 https://www.the-petproject.com/about-1
 
