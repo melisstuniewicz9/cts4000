@@ -80,9 +80,7 @@ When creating Paws and Hearts this summer in CTS3030, I wanted to ensure that al
 
 I feel as if the relevance to issue theme is somewhat subjective. While Gabby did not feel as if my project was a good fit for the journal, I received positive feedback from the editorial team. Despite my submission being accepted, these contrasting perspectives have left me somewhat unsure about how to edit this submission and how explicitly I should emphasize its thematic connections. After reviewing the CFP once more, I think Paws and Hearts works well in the area of mixed media work (see below) so I feel comfortable in my decision to submit to the journal as well as the justification I provided for why exactly it fits. 
 
-![CFP2025](SubmissionReviewSS.png) 
-
-![See Image](https://raw.githubusercontent.com/melisstuniewicz9/cts4000/refs/heads/main/SubmissionReviewSS.png)</sup>
+![CFP2025](https://raw.githubusercontent.com/melisstuniewicz9/cts4000/refs/heads/main/SubmissionReviewSS.png)
 
 Of course, I’m always receptive to constructive feedback. If I have the opportunity to submit academic work to another journal during my undergraduate journey, I will make sure to submit a project that aligns more closely with that publication’s thematic vision and establishes a more immediately recognizable connection for peer reviewers with diverse academic backgrounds.
 
