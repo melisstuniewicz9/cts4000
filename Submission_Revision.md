@@ -82,8 +82,10 @@ I feel as if the relevance to issue theme is somewhat subjective. While Gabby di
 
 ![CFP2025](SubmissionReviewSS.png) 
 
-<sup>[See Image](https://github.com/melisstuniewicz9/cts4000/blob/main/SubmissionReviewSS.png)</sup>
+<sup>[See Image](https://raw.githubusercontent.com/melissatuniewicz9/cts4000/main/SubmissionReviewSS.png
+)</sup>
 
+https://raw.githubusercontent.com/melissatuniewicz9/cts4000/main/SubmissionReviewSS.png
 
 
 
