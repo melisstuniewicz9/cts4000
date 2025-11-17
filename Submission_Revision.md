@@ -78,11 +78,17 @@ When creating Paws and Hearts this summer in CTS3030, I wanted to ensure that al
 
 **Relevance to special issue theme**
 
-I feel as if the relevance to issue theme is somewhat subjective. While Gabby did not feel as if my project was a good fit for the journal, I received positive feedback from the editorial teamm. Despite my submission being accepted, these contrasting perspectives have left me somewhat unsure about how to edit this submission and draw readers attention to more profound connections to our theme. After reviewing the CFP once more, I think Paws and Hearts works well in the area of mixed media work (see below) so I feel comfortable in my decision to submit to the journal.
+I feel as if the relevance to issue theme is somewhat subjective. While Gabby did not feel as if my project was a good fit for the journal, I received positive feedback from the editorial team. Despite my submission being accepted, these contrasting perspectives have left me somewhat unsure about how to edit this submission and draw readers attention to more profound connections to our theme. After reviewing the CFP once more, I think Paws and Hearts works well in the area of mixed media work (see below) so I feel comfortable in my decision to submit to the journal.
 
 ![CFP2025](SubmissionReviewSS.png) 
 
 Of course, I am always receptive to constructive feedback, so If I am ever in a postion to submit academic work for a different journal during my undergraduate journey, I will make sure to submit something that aligns more closely with the themes vision!
+
+**Overall originality, creativity, and strength of ideas**
+
+I received mostly positive feedback here. Gabby enjoyed navigating my website and appreciated the original artwork, but she mentioned that she has come across research projects with a similar concept (the impacts of pet ownership on mental health). I think this is why a point was deducted from the score. This is a fair judgment because I am definitely not the only one who has created a gallery of pet photos and testimonials. However, the project was never meant to be a completely original concept. It was meant to be a passion project that showcased my artwork and shared uplifting stories about pets and their owners. In fact, part of the research process involved finding similar projects and using them as inspiration for our own work, so I do not want it to appear as though I set out to create something revolutionary.
+
+This project was inspired by my own pet’s role in helping me navigate a grief journey, and I am extremely proud of the work I produced. I understand that it will not resonate with everyone, and that is completely okay. For that reason, I do not plan to make any major edits to the project.
 
 **Accuracy and completion of markdown code**
 
