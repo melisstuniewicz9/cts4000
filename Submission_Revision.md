@@ -72,7 +72,11 @@ overall: 15/20 - 75%
 
 My Reflection:
 
+**Communication, style and polish**
+
 When creating Paws and Hearts this summer in CTS3030, I wanted to ensure that all corresponding written pieces were extremely high quality and competent gramatically. Given Gabby's score of 5/5 in the communication section, I am pleased that my efforts were acknowledged. Aditionally, she found my abstract to be engaging, prompting further curiosity in readers, so I feel as if no modifications are needed here. 
+
+**Relevance to special issue theme**
 
 I feel as if the relevance to issue theme is somewhat subjective. While Gabby did not feel as if my project was a good fit for the journal, I received positive feedback from the editorial teamm. Despite my submission being accepted, these contrasting perspectives have left me somewhat unsure about how to edit this submission and draw readers attention to more profound connections to our theme. After reviewing the CFP once more, I think Paws and Hearts works well in the area of mixed media work (see below) so I feel comfortable in my decision to submit to the journal.
 
@@ -80,7 +84,13 @@ I feel as if the relevance to issue theme is somewhat subjective. While Gabby di
 
 Of course, I am always receptive to constructive feedback, so If I am ever in a postion to submit academic work for a different journal during my undergraduate journey, I will make sure to submit something that aligns more closely with the themes vision!
 
-My lowest score lies in the "accuracy and completion of markdown code section." The main piece of feedback here was in regards to my project not being properly encoded in markdown. Unfortunately, you cannot use embeds in GitHub markdown, so providing the Neocities link where my project is hosted was the only realistic way my project could be viewed. That being said, I most definitely could have encoded my reflection blog post in markdown. I had thought about doing so initially, 
+**Accuracy and completion of markdown code**
+
+My lowest score lies in the "accuracy and completion of markdown code section." The main piece of feedback here was in regards to my project not being properly encoded in markdown. Unfortunately, you cannot use embeds in GitHub markdown, so providing the Neocities link where my project is hosted was the only realistic way my project could be viewed. That being said, I most definitely could have encoded my reflection blog post in markdown. I had thought about doing so initially, but because of the piece being over 2000 words (and several images) I was worried that it would would cause clutter, and be difficult for the editorial team to process. This is why I decided to simply link the blog post in my submission. 
 
 ![Length of reflection blog post](SS2.png)
+
+I wanted to quickly address my citations list. From my understanding, the use of footnotes was a suggestion, and not a requirment. To be fully transparent, I am not too confident in Chicago style citations, and have mostly worked with APA format during my undergraduate degree. I did make an effort to change my APA bibliography into a Chicago Style one, but I did not include footnotes due to lack of experience. This is definiely a wake up call, as I likely should demonstrate competency in MLA, APA and Chicago style, so I will make sure to experiment with this citation method in the future. I'm thankful this was brought to my attention (especially since I am keen on pursuing graduate studies.)
+
+Gabby noted that the header image that I inserted of my website banner, was not available for her to view as I had not shared the entire repository in which the image was stored with her alongside my submission file. That was most certianly an oversight on my part!
 
