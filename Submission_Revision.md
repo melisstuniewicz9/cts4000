@@ -110,7 +110,8 @@ While Gabby mentioned that my metadata was done well, I received feedback from t
 
 **Revised Submission**
 
-![Paws and Hearts Banner](pahbannerfinal.png)
+![Paws and Hearts Banner](https://raw.githubusercontent.com/melisstuniewicz9/cts4000/refs/heads/main/pahbannerfinal.png)
+
 
 **Title:** Paws and Hearts: A Static Website Showcasing the Mental Health and Wellness Benefits of Pet Ownership  
 **Author:** Melissa Tuniewicz  
