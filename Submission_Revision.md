@@ -84,11 +84,6 @@ I feel as if the relevance to issue theme is somewhat subjective. While Gabby di
 
 ![See Image](https://raw.githubusercontent.com/melisstuniewicz9/cts4000/refs/heads/main/SubmissionReviewSS.png)</sup>
 
-https://raw.githubusercontent.com/melissatuniewicz9/cts4000/main/SubmissionReviewSS.png
-
-
-
-
 Of course, I’m always receptive to constructive feedback. If I have the opportunity to submit academic work to another journal during my undergraduate journey, I will make sure to submit a project that aligns more closely with that publication’s thematic vision and establishes a more immediately recognizable connection for peer reviewers with diverse academic backgrounds.
 
 **Overall originality, creativity, and strength of ideas**
