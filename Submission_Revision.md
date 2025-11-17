@@ -129,6 +129,9 @@ Scholarly research can take many forms beyond traditional academic papers. This 
 **Blog Post:** [Paws and Hearts: From Theory to Practice](https://melissatuniewicz2.wixsite.com/melissa-tuniewicz1/post/paws-and-hearts-from-theory-to-practice)
 
 ---
+**About the Author:**
+
+Melissa is a third-year Culture and Technology Studies student who is passionate about digital creativity and using non-traditional mediums to experience and communicate learning.
 
 ### **Works Cited**
 
