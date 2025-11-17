@@ -70,7 +70,7 @@ overall: 15/20 - 75%
 
 ---
 
-My Reflection:
+**My Reflection:**
 
 **Communication, style and polish**
 
