@@ -1,4 +1,4 @@
-Gabby's Review: 
+### Gabby's Review: 
 
 ---
 
@@ -70,7 +70,7 @@ overall: 15/20 - 75%
 
 ---
 
-**My Reflection:**
+### My Reflection:
 
 **Communication, style and polish**
 
@@ -106,7 +106,7 @@ While Gabby mentioned that my metadata was done well, I received feedback from t
 
 ---
 
-**Revised Submission**
+### Revised Submission
 
 ![Paws and Hearts Banner](https://raw.githubusercontent.com/melisstuniewicz9/cts4000/refs/heads/main/pahbannerfinal.png)
 
