@@ -82,9 +82,9 @@ I feel as if the relevance to issue theme is somewhat subjective. While Gabby di
 
 ![CFP2025](SubmissionReviewSS.png) 
 
-![CFP2025](/assets/images/SubmissionReviewSS.png)
+<sup>[See Image](https://github.com/melissatuniewicz9/cts4000/blob/main/SubmissionReviewSS.png)</sup>
 
-![CFP2025](/cts4000/SubmissionReviewSS.png)
+
 
 
 
