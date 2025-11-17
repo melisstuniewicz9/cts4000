@@ -82,6 +82,9 @@ I feel as if the relevance to issue theme is somewhat subjective. While Gabby di
 
 ![CFP2025](SubmissionReviewSS.png) 
 
+<img width="708" height="708" alt="Little girl holding tablet that displays an AI robot" src="[" />
+](https://github.com/melisstuniewicz9/cts4000/blob/main/SubmissionReviewSS.png)
+
 Of course, I’m always receptive to constructive feedback. If I have the opportunity to submit academic work to another journal during my undergraduate journey, I will make sure to submit a project that aligns more closely with that publication’s thematic vision and establishes a more immediately recognizable connection for peer reviewers with diverse academic backgrounds.
 
 **Overall originality, creativity, and strength of ideas**
